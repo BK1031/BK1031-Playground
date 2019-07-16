@@ -18,7 +18,7 @@ import java.io.Reader;
 public class Application {
 
     private final String url = "jdbc:postgresql://localhost:5432/BK1031-Playground";
-    private final String user = "bharat";
+    private final String user = "postgres";
     private final String password = "";
     private final static String initPath = "/src/main/java/resources/init.sql";
 
